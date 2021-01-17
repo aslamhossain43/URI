@@ -1,4 +1,4 @@
-package beginner;
+
 
 public class URI_1000 {
 
